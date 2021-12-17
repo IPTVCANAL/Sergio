@@ -219,7 +219,7 @@ http://rec2.distv.net:80/djalma/12345/244
 ####CANAISLOCAIS####
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
 http://rec2.distv.net:80/djalma/12345/31
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
 http://rec2.distv.net:80/djalma/12345/13
 ####FILMES####
 #EXTINF:-1 tvg-id="" tvg-name=" Star Wars: Episódio V – O Império Contra-Ataca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg" group-title="Filmes | Fantasia", Star Wars: Episódio V – O Império Contra-Ataca (1980)
