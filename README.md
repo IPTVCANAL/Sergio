@@ -99,7 +99,7 @@ http://rec2.distv.net:80/djalma/12345/228
 http://rec2.distv.net:80/djalma/12345/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/djalma/12345/230
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
 http://rec2.distv.net:80/djalma/12345/13
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
 http://rec2.distv.net:80/djalma/12345/154
