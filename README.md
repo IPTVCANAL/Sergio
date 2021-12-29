@@ -217,6 +217,8 @@ http://srvtv.tech:80/geovana2021/2021geovana/180020
 http://srvtv.tech:80/geovana2021/2021geovana/431631
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",SBT RJ
 http://srvtv.tech:80/geovana2021/2021geovana/180055
+#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",BAND RJ
+http://srvtv.tech:80/geovana2021/2021geovana/180078
 ####FILMES####
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9WA3biUqXVUU4snaB2f6O24F01.jpg" group-title="29 TERROR",Brahms: Boneco do Mal 2
