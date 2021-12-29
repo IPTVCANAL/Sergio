@@ -216,7 +216,7 @@ http://rec2.distv.net:80/lazinha/123456/243
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS ",RECORD RIO 
-
+http://rec2.distv.net:80/lazinha/123456/31
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS ",GLOBO RIO
 http://rec2.distv.net:80/lazinha/123456/13
 ####FILMES####
