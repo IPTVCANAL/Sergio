@@ -75,8 +75,6 @@ http://rec2.distv.net:80/lazinha/123456/143
 http://rec2.distv.net:80/lazinha/123456/144
 #EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
 http://rec2.distv.net:80/lazinha/123456/145
-#EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
-http://rec2.distv.net:80/lazinha/123456/82
 #EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
 http://rec2.distv.net:80/lazinha/123456/227
 #EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
@@ -176,8 +174,6 @@ http://rec2.distv.net:80/lazinha/123456/190
 http://rec2.distv.net:80/lazinha/123456/191
 #EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
 http://rec2.distv.net:80/lazinha/123456/192
-#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="http://distv.net/icons/TBC.png" group-title="CANAIS LOCAIS",TBC
-http://rec2.distv.net:80/lazinha/123456/278
 #EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
 http://rec2.distv.net:80/lazinha/123456/193
 #EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
@@ -214,10 +210,10 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS ",RECORD RIO 
+####CANAISABERTOS####
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS ABERTOS",RECORD RIO 
 http://rec2.distv.net:80/lazinha/123456/31
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS ",GLOBO RIO
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS ABERTOS",GLOBO RIO
 http://rec2.distv.net:80/lazinha/123456/13
 ####FILMES####
 #EXTM3U
