@@ -212,7 +212,7 @@ http://rec2.distv.net:80/lazinha/123456/243
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-
+http://srvtv.tech:80/geovana2021/2021geovana/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
 http://srvtv.tech:80/geovana2021/2021geovana/431631
 ####FILMES####
