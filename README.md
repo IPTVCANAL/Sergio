@@ -99,9 +99,6 @@ http://rec2.distv.net:80/lazinha/123456/228
 http://rec2.distv.net:80/lazinha/123456/229
 #EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
 http://rec2.distv.net:80/lazinha/123456/230
-###CANAISGLOBO####
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
-http://cms-eu-01.casap2p.online:8080/marcelo/123456/5047
 #EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
 http://rec2.distv.net:80/lazinha/123456/154
 #EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
@@ -218,10 +215,10 @@ http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS ",RECORD RIO 
 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
-http://cms-eu-01.casap2p.online:8080/honorato/123456/5047
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title=" CANAIS LOCAIS ",GLOBO RIO
+http://rec2.distv.net:80/lazinha/123456/13
 ####FILMES####
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9WA3biUqXVUU4snaB2f6O24F01.jpg" group-title="29 TERROR",Brahms: Boneco do Mal 2
