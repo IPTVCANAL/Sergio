@@ -211,11 +211,10 @@ http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####
-###29/01/22####Globo
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://rec2.distv.net:80/lazinha/123456/31
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://bolos.cteam.me:80/valdeci/102030/893326
+http://rec2.distv.net:80/lazinha/123456/13
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",SBT RJ
 http://srvtv.tech:80/geovana2021/2021geovana/180055
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",BAND RJ
