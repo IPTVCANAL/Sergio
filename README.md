@@ -210,11 +210,11 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####
+####CANAISLOCAIS####Globo ate 
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-
+http://srvtv.tech:80/oliveira/123456/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://stalkertvlatino.com:8080/Leonidas/Leonidas/82925
+http://srvtv.tech:80/oliveira/123456/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",SBT RJ
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",BAND RJ
