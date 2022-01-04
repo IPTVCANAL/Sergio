@@ -210,7 +210,7 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####Globo ate 
+####CANAISLOCAIS####ate dia 01/03/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://srvtv.tech:80/oliveira/123456/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
