@@ -216,7 +216,7 @@ http://srvtv.tech:80/oliveira/123456/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
 http://srvtv.tech:80/oliveira/123456/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",SBT RJ
-
+http://srvtv.tech:80/oliveira/123456/180055
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",BAND RJ
 
 ####FILMES####
