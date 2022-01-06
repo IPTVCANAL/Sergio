@@ -212,13 +212,9 @@ http://rec2.distv.net:80/daiana/12345/243
 http://rec2.distv.net:80/daiana/12345/244
 ####CANAISLOCAIS####ate dia 01/03/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://srvtv.tech:80/oliveira/12345/180020
+http://rec2.distv.net:80/daiana/12345/31
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://srvtv.tech:80/oliveira/12345/431529
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",SBT RJ
-http://srvtv.tech:80/oliveira/12345/180055
-#EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",BAND RJ
-http://srvtv.tech:80/oliveira/12345/180078
+http://rec2.distv.net:80/daiana/12345/13
 ####FILMES####
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Brahms: Boneco do Mal 2" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g9WA3biUqXVUU4snaB2f6O24F01.jpg" group-title="29 TERROR",Brahms: Boneco do Mal 2
