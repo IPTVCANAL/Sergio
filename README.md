@@ -210,11 +210,11 @@ http://rec2.distv.net:80/daiana/12345/208
 http://rec2.distv.net:80/daiana/12345/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/daiana/12345/244
-####CANAISLOCAIS####ate dia 01/03/22
+####CANAISLOCAIS####ate dia 27/01/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://rec2.distv.net:80/daiana/12345/31
+http://bolos.cteam.me:80/getulio/123456/888460
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://51.89.98.62:8080/atilio/atilio/34253
+http://bolos.cteam.me:80/getulio/123456/893326
 ####FILMES####
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: EpisÃ³dio V â€“ O ImpÃrio Contra-Ataca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg" group-title="Filmes | Fantasia",Star Wars: EpisÃ³dio V â€“ O ImpÃrio Contra-Ataca (1980)
