@@ -212,9 +212,9 @@ http://rec2.distv.net:80/daiana/12345/243
 http://rec2.distv.net:80/daiana/12345/244
 ####CANAISLOCAIS####ate dia 27/01/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://bolos.cteam.me:80/getulio/123456/888460
+
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://bolos.cteam.me:80/getulio/123456/893326
+http://cms-eu-01.casap2p.online:8080/dayana/102030/18771
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
