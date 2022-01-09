@@ -216,6 +216,9 @@ http://bolos.cteam.me:80/getulio/123456/888460
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
 http://bolos.cteam.me:80/getulio/123456/893326
 ####FILMES####
+####NOTICIAS####
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
+http://cms-eu-01.casap2p.online:8080/alcilene/102030/5015
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: EpisÃ³dio V â€“ O ImpÃrio Contra-Ataca (1980)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXXSUFpfBKZimPyugKQShUO5NMS.jpg" group-title="Filmes | Fantasia",Star Wars: EpisÃ³dio V â€“ O ImpÃrio Contra-Ataca (1980)
 http://51.89.98.62:8080/movie/atilio/atilio/3943.mp4
