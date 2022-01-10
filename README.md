@@ -210,11 +210,11 @@ http://rec2.distv.net:80/daiana/12345/208
 http://rec2.distv.net:80/daiana/12345/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/daiana/12345/244
-####CANAISLOCAIS####ate dia 27/01/22
+####CANAISLOCAIS####ate dia 04/02/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://cms-eu-01.casap2p.online:8080/dayana/102030/23823
+http://serverfulltop.com:80/inaldo1/inaldo1/606
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://cms-eu-01.casap2p.online:8080/dayana/102030/18771
+http://serverfulltop.com:80/inaldo1/inaldo1/475
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
