@@ -214,7 +214,7 @@ http://rec2.distv.net:80/daiana/12345/244
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-
+http://serverfulltop.com:80/reginaldo1/reginaldo1/752
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
