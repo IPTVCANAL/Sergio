@@ -212,11 +212,11 @@ http://rec2.distv.net:80/lazinha/123456/243
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####ate dia 04/02/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://serverfulltop.com:80/reginaldo1/reginaldo1/606
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RIO
-http://serverfulltop.com:80/reginaldo1/reginaldo1/752
+
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
+http://bolos.cteam.me:80/nilso/123456/893326
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ" tvg-logo="http://floriu.com/imagem/SBT.png" group-title="CANAIS LOCAIS",SBT RJ 
-http://serverfulltop.com:80/reginaldo1/reginaldo1/625
+
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
