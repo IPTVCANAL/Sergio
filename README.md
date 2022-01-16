@@ -212,7 +212,7 @@ http://rec2.distv.net:80/lazinha/123456/243
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####ate dia 26/01/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-
+http://magnum-ott.net:80/41C455320034398/gAomFHxfYP/76222
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
 http://magnum-ott.net:80/41C455320034398/gAomFHxfYP/76214
 ####FILMES####
