@@ -210,11 +210,11 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####ate dia 26/01/22
+####CANAISLOCAIS####ate dia 20/02/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://list.starbr.nz:80/vanessa1234/1234vanessa/29371
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
-http://list.starbr.nz:80/vanessa1234/1234vanessa/52618
+http://bolos.cteam.me:80/glaucia/102030/893331
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
