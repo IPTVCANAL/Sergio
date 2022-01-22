@@ -1,4 +1,24 @@
 #EXTM3U
+#BBB22#
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 1
+http://bolos.cteam.me:80/moroni/102030/897372
+#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB MOSAICO
+http://bolos.cteam.me:80/moroni/102030/897373
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 2
+http://bolos.cteam.me:80/moroni/102030/897374
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 3
+http://bolos.cteam.me:80/moroni/102030/897375
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 4
+http://bolos.cteam.me:80/moroni/102030/897376
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 5
+http://bolos.cteam.me:80/moroni/102030/897377
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 6
+http://bolos.cteam.me:80/moroni/102030/897378
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 7
+http://bolos.cteam.me:80/moroni/102030/897379
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 8
+http://bolos.cteam.me:80/moroni/102030/897380
+#
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/lazinha/123456/113
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
