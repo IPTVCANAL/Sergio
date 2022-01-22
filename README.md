@@ -234,7 +234,7 @@ http://rec2.distv.net:80/lazinha/123456/244
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://bolos.cteam.me:80/ismael/102030/888460
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
-http://sansat.net:25461/LaSZMZUYEL7cUlZ/Y31OmZKMlC/101786
+http://bolos.cteam.me:80/ismael/102030/893326
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS LOCAIS",SBT RJ HD
 http://bolos.cteam.me:80/ismael/102030/888754
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS LOCAIS",BAND RJ HD
