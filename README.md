@@ -230,11 +230,11 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####ate dia 20/02/22
+####CANAISLOCAIS####ate dia 06/02/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://bolos.cteam.me:80/ismael/102030/888460
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
-http://bolos.cteam.me:80/ismael/102030/893326
+http://srvtv.tech:80/jonas2021/2021jonas/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS LOCAIS",SBT RJ HD
 http://bolos.cteam.me:80/ismael/102030/888754
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS LOCAIS",BAND RJ HD
