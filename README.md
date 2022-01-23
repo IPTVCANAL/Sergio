@@ -242,9 +242,9 @@ http://srvtv.tech:80/augusto2022/2022augusto/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
 http://srvtv.tech:80/augusto2022/2022augusto/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS LOCAIS",SBT RJ HD
-http://srvtv.tech:80/jonas2021/2021jonas/180055
+http://srvtv.tech:80/augusto2022/2022augusto/180055
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS LOCAIS",BAND RJ HD
-
+http://srvtv.tech:80/augusto2022/2022augusto/180078
 ####FILMES####
 ####NOTICIAS####
 #EXTINF:-1 tvg-id="Globonews.br" tvg-name="Globo News" tvg-logo="http://floriu.com/imagem/GLOBONEWS.png" group-title="NOTICIAS",Globo News
