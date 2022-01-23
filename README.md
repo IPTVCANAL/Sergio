@@ -237,8 +237,8 @@ http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
 ####CANAISLOCAIS####ate dia 18/02/22
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
-http://bolos.cteam.me:80/ismael/102030/888460
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RJ " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
+http://srvtv.tech:80/augusto2022/2022augusto/180020
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
 http://srvtv.tech:80/augusto2022/2022augusto/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS LOCAIS",SBT RJ HD
