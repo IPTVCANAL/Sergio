@@ -1,29 +1,29 @@
 #EXTM3U
 #BBB22#
 #EXTINF:-1 tvg-id="" tvg-name="MOSAICO" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",MOSAICO
-http://srvtv.tech:80/jonas2021/2021jonas/517905
+http://srvtv.tech:80/augusto2022/2022augusto/517905
 #EXTINF:-1 tvg-id="" tvg-name="CAM 1" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 1
-http://srvtv.tech:80/jonas2021/2021jonas/517906
+http://srvtv.tech:80/augusto2022/2022augusto/517906
 #EXTINF:-1 tvg-id="" tvg-name="CAM 2" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 2
-http://srvtv.tech:80/jonas2021/2021jonas/517908
+http://srvtv.tech:80/augusto2022/2022augusto/517908
 #EXTINF:-1 tvg-id="" tvg-name="CAM 3" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 3
-http://srvtv.tech:80/jonas2021/2021jonas/517909
+http://srvtv.tech:80/augusto2022/2022augusto/517909
 #EXTINF:-1 tvg-id="" tvg-name="CAM 4" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 4
-http://srvtv.tech:80/jonas2021/2021jonas/517910
+http://srvtv.tech:80/augusto2022/2022augusto/517910
 #EXTINF:-1 tvg-id="" tvg-name="CAM 5" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 5
-http://srvtv.tech:80/jonas2021/2021jonas/517911
+http://srvtv.tech:80/augusto2022/2022augusto/517911
 #EXTINF:-1 tvg-id="" tvg-name="CAM 6" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 6
-http://srvtv.tech:80/jonas2021/2021jonas/517912
+http://srvtv.tech:80/augusto2022/2022augusto/517912
 #EXTINF:-1 tvg-id="" tvg-name="CAM 7" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 7
-http://srvtv.tech:80/jonas2021/2021jonas/517913
+http://srvtv.tech:80/augusto2022/2022augusto/517913
 #EXTINF:-1 tvg-id="" tvg-name="CAM 8" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 8
-http://srvtv.tech:80/jonas2021/2021jonas/517914
+http://srvtv.tech:80/augusto2022/2022augusto/517914
 #EXTINF:-1 tvg-id="" tvg-name="CAM 9" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 9
-http://srvtv.tech:80/jonas2021/2021jonas/517915
+http://srvtv.tech:80/augusto2022/2022augusto/517915
 #EXTINF:-1 tvg-id="" tvg-name="CAM 10" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 10
-http://srvtv.tech:80/jonas2021/2021jonas/517916
+http://srvtv.tech:80/augusto2022/2022augusto/517916
 #EXTINF:-1 tvg-id="" tvg-name="CAM 11" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 11
-http://srvtv.tech:80/jonas2021/2021jonas/517917
+http://srvtv.tech:80/augusto2022/2022augusto/517917
 #
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/lazinha/123456/113
@@ -236,11 +236,11 @@ http://rec2.distv.net:80/lazinha/123456/208
 http://rec2.distv.net:80/lazinha/123456/243
 #EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
 http://rec2.distv.net:80/lazinha/123456/244
-####CANAISLOCAIS####ate dia 06/02/22
+####CANAISLOCAIS####ate dia 18/02/22
 #EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS",RECORD RIO 
 http://bolos.cteam.me:80/ismael/102030/888460
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO RJ" tvg-logo="http://floriu.com/imagem/GLOBO.png" group-title="CANAIS LOCAIS",GLOBO RJ
-http://srvtv.tech:80/jonas2021/2021jonas/431529
+http://srvtv.tech:80/augusto2022/2022augusto/431529
 #EXTINF:-1 tvg-id="" tvg-name="SBT RJ HD" tvg-logo="https://i.imgur.com/xLcleQG.png" group-title="CANAIS LOCAIS",SBT RJ HD
 http://bolos.cteam.me:80/ismael/102030/888754
 #EXTINF:-1 tvg-id="" tvg-name="BAND RJ HD" tvg-logo="https://myclient.host/ABERTOS/BAND.png" group-title="CANAIS LOCAIS",BAND RJ HD
