@@ -1,23 +1,29 @@
 #EXTM3U
 #BBB22#
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 1
-http://bolos.cteam.me:80/moroni/102030/897372
-#EXTINF:-1 tvg-id="" tvg-name="BBB MOSAICO" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB MOSAICO
-http://bolos.cteam.me:80/moroni/102030/897373
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 2
-http://bolos.cteam.me:80/moroni/102030/897374
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 3
-http://bolos.cteam.me:80/moroni/102030/897375
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 4
-http://bolos.cteam.me:80/moroni/102030/897376
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 5
-http://bolos.cteam.me:80/moroni/102030/897377
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 6
-http://bolos.cteam.me:80/moroni/102030/897378
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 7
-http://bolos.cteam.me:80/moroni/102030/897379
-#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://aaronturatv.ig.com.br/wp-content/uploads/2022/01/BBB.png" group-title="CANAIS | BBB22",BBB CAM 8
-http://bolos.cteam.me:80/moroni/102030/897380
+#EXTINF:-1 tvg-id="" tvg-name="MOSAICO" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",MOSAICO
+http://srvtv.tech:80/jonas2021/2021jonas/517905
+#EXTINF:-1 tvg-id="" tvg-name="CAM 1" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 1
+http://srvtv.tech:80/jonas2021/2021jonas/517906
+#EXTINF:-1 tvg-id="" tvg-name="CAM 2" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 2
+http://srvtv.tech:80/jonas2021/2021jonas/517908
+#EXTINF:-1 tvg-id="" tvg-name="CAM 3" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 3
+http://srvtv.tech:80/jonas2021/2021jonas/517909
+#EXTINF:-1 tvg-id="" tvg-name="CAM 4" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 4
+http://srvtv.tech:80/jonas2021/2021jonas/517910
+#EXTINF:-1 tvg-id="" tvg-name="CAM 5" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 5
+http://srvtv.tech:80/jonas2021/2021jonas/517911
+#EXTINF:-1 tvg-id="" tvg-name="CAM 6" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 6
+http://srvtv.tech:80/jonas2021/2021jonas/517912
+#EXTINF:-1 tvg-id="" tvg-name="CAM 7" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 7
+http://srvtv.tech:80/jonas2021/2021jonas/517913
+#EXTINF:-1 tvg-id="" tvg-name="CAM 8" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 8
+http://srvtv.tech:80/jonas2021/2021jonas/517914
+#EXTINF:-1 tvg-id="" tvg-name="CAM 9" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 9
+http://srvtv.tech:80/jonas2021/2021jonas/517915
+#EXTINF:-1 tvg-id="" tvg-name="CAM 10" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 10
+http://srvtv.tech:80/jonas2021/2021jonas/517916
+#EXTINF:-1 tvg-id="" tvg-name="CAM 11" tvg-logo="https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/12/28/806x444/1_bbb_22-20364530.jpeg" group-title="CANAIS | BBB 2022",CAM 11
+http://srvtv.tech:80/jonas2021/2021jonas/517917
 #
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 http://rec2.distv.net:80/lazinha/123456/113
